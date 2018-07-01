@@ -6,6 +6,6 @@
 
 2.Lembrando que para usar o PHP é necessario um server, se quiser usar um xampp ou wamp para facilitar esse processo.
 
-3.Mão na massa, que e bora codar.
+3.Mão na massa e bora codar.
 
 sugestões ou melhorias só contribuir...
