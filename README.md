@@ -1,4 +1,4 @@
-# CRUD-PhP(Create read update deleted )
+# CRUD-PhP(Create, Read, Update, delete);
 
 *Meu primeiro contato com PHP7 fui aconcelhado a fazer um CRUD.
 
